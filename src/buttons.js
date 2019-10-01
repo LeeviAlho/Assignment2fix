@@ -40,8 +40,8 @@ let counter = {
 };
 
 const button11 = document.getElementById("addtolist11");
-button11.style.width = "56px";
-button11.style.height = "56px";
+button11.style.width = "52px";
+button11.style.height = "52px";
 button11.addEventListener("mousedown", event => {
   buttonid = "text11";
   squareid = "square11";
@@ -53,8 +53,8 @@ button11.addEventListener("mousedown", event => {
 });
 
 const button12 = document.getElementById("addtolist12");
-button12.style.width = "56px";
-button12.style.height = "56px";
+button12.style.width = "52px";
+button12.style.height = "52px";
 button12.addEventListener("mousedown", event => {
   buttonid = "text12";
   squareid = "square12";
@@ -66,8 +66,8 @@ button12.addEventListener("mousedown", event => {
 });
 
 const button13 = document.getElementById("addtolist13");
-button13.style.width = "56px";
-button13.style.height = "56px";
+button13.style.width = "52px";
+button13.style.height = "52px";
 button13.addEventListener("mousedown", event => {
   buttonid = "text13";
   squareid = "square13";
@@ -79,8 +79,8 @@ button13.addEventListener("mousedown", event => {
 });
 
 const button14 = document.getElementById("addtolist14");
-button14.style.width = "56px";
-button14.style.height = "56px";
+button14.style.width = "52px";
+button14.style.height = "52px";
 button14.addEventListener("mousedown", event => {
   buttonid = "text14";
   squareid = "square14";
@@ -92,8 +92,8 @@ button14.addEventListener("mousedown", event => {
 });
 
 const button15 = document.getElementById("addtolist15");
-button15.style.width = "56px";
-button15.style.height = "56px";
+button15.style.width = "52px";
+button15.style.height = "52px";
 button15.addEventListener("mousedown", event => {
   buttonid = "text15";
   squareid = "square15";
@@ -105,8 +105,8 @@ button15.addEventListener("mousedown", event => {
 });
 
 const button21 = document.getElementById("addtolist21");
-button21.style.width = "56px";
-button21.style.height = "56px";
+button21.style.width = "52px";
+button21.style.height = "52px";
 button21.addEventListener("mousedown", event => {
   buttonid = "text21";
   squareid = "square21";
@@ -118,8 +118,8 @@ button21.addEventListener("mousedown", event => {
 });
 
 const button22 = document.getElementById("addtolist22");
-button22.style.width = "56px";
-button22.style.height = "56px";
+button22.style.width = "52px";
+button22.style.height = "52px";
 button22.addEventListener("mousedown", event => {
   buttonid = "text22";
   squareid = "square22";
@@ -131,8 +131,8 @@ button22.addEventListener("mousedown", event => {
 });
 
 const button23 = document.getElementById("addtolist23");
-button23.style.width = "56px";
-button23.style.height = "56px";
+button23.style.width = "52px";
+button23.style.height = "52px";
 button23.addEventListener("mousedown", event => {
   buttonid = "text23";
   squareid = "square23";
@@ -144,8 +144,8 @@ button23.addEventListener("mousedown", event => {
 });
 
 const button24 = document.getElementById("addtolist24");
-button24.style.width = "56px";
-button24.style.height = "56px";
+button24.style.width = "52px";
+button24.style.height = "52px";
 button24.addEventListener("mousedown", event => {
   buttonid = "text24";
   squareid = "square24";
@@ -157,8 +157,8 @@ button24.addEventListener("mousedown", event => {
 });
 
 const button25 = document.getElementById("addtolist25");
-button25.style.width = "56px";
-button25.style.height = "56px";
+button25.style.width = "52px";
+button25.style.height = "52px";
 button25.addEventListener("mousedown", event => {
   buttonid = "text25";
   squareid = "square25";
@@ -170,8 +170,8 @@ button25.addEventListener("mousedown", event => {
 });
 
 const button31 = document.getElementById("addtolist31");
-button31.style.width = "56px";
-button31.style.height = "56px";
+button31.style.width = "52px";
+button31.style.height = "52px";
 button31.addEventListener("mousedown", event => {
   buttonid = "text31";
   squareid = "square31";
@@ -184,8 +184,8 @@ button31.addEventListener("mousedown", event => {
 });
 
 const button32 = document.getElementById("addtolist32");
-button32.style.width = "56px";
-button32.style.height = "56px";
+button32.style.width = "52px";
+button32.style.height = "52px";
 button32.addEventListener("mousedown", event => {
   buttonid = "text32";
   squareid = "square32";
@@ -197,8 +197,8 @@ button32.addEventListener("mousedown", event => {
 });
 
 const button33 = document.getElementById("addtolist33");
-button33.style.width = "56px";
-button33.style.height = "56px";
+button33.style.width = "52px";
+button33.style.height = "52px";
 button33.addEventListener("mousedown", event => {
   buttonid = "text33";
   squareid = "square33";
@@ -210,8 +210,8 @@ button33.addEventListener("mousedown", event => {
 });
 
 const button34 = document.getElementById("addtolist34");
-button34.style.width = "56px";
-button34.style.height = "56px";
+button34.style.width = "52px";
+button34.style.height = "52px";
 button34.addEventListener("mousedown", event => {
   buttonid = "text34";
   squareid = "square34";
@@ -223,8 +223,8 @@ button34.addEventListener("mousedown", event => {
 });
 
 const button35 = document.getElementById("addtolist35");
-button35.style.width = "56px";
-button35.style.height = "56px";
+button35.style.width = "52px";
+button35.style.height = "52px";
 button35.addEventListener("mousedown", event => {
   buttonid = "text35";
   squareid = "square35";
@@ -236,8 +236,8 @@ button35.addEventListener("mousedown", event => {
 });
 
 const button41 = document.getElementById("addtolist41");
-button41.style.width = "56px";
-button41.style.height = "56px";
+button41.style.width = "52px";
+button41.style.height = "52px";
 button41.addEventListener("mousedown", event => {
   buttonid = "text41";
   squareid = "square41";
@@ -249,8 +249,8 @@ button41.addEventListener("mousedown", event => {
 });
 
 const button42 = document.getElementById("addtolist42");
-button42.style.width = "56px";
-button42.style.height = "56px";
+button42.style.width = "52px";
+button42.style.height = "52px";
 button42.addEventListener("mousedown", event => {
   buttonid = "text42";
   squareid = "square42";
@@ -262,8 +262,8 @@ button42.addEventListener("mousedown", event => {
 });
 
 const button43 = document.getElementById("addtolist43");
-button43.style.width = "56px";
-button43.style.height = "56px";
+button43.style.width = "52px";
+button43.style.height = "52px";
 button43.addEventListener("mousedown", event => {
   buttonid = "text43";
   squareid = "square43";
@@ -275,8 +275,8 @@ button43.addEventListener("mousedown", event => {
 });
 
 const button44 = document.getElementById("addtolist44");
-button44.style.width = "56px";
-button44.style.height = "56px";
+button44.style.width = "52px";
+button44.style.height = "52px";
 button44.addEventListener("mousedown", event => {
   buttonid = "text44";
   squareid = "square44";
@@ -288,8 +288,8 @@ button44.addEventListener("mousedown", event => {
 });
 
 const button45 = document.getElementById("addtolist45");
-button45.style.width = "56px";
-button45.style.height = "56px";
+button45.style.width = "52px";
+button45.style.height = "52px";
 button45.addEventListener("mousedown", event => {
   buttonid = "text45";
   squareid = "square45";
@@ -301,8 +301,8 @@ button45.addEventListener("mousedown", event => {
 });
 
 const button51 = document.getElementById("addtolist51");
-button51.style.width = "56px";
-button51.style.height = "56px";
+button51.style.width = "52px";
+button51.style.height = "52px";
 button51.addEventListener("mousedown", event => {
   buttonid = "text51";
   squareid = "square51";
@@ -315,8 +315,8 @@ button51.addEventListener("mousedown", event => {
 });
 
 const button52 = document.getElementById("addtolist52");
-button52.style.width = "56px";
-button52.style.height = "56px";
+button52.style.width = "52px";
+button52.style.height = "52px";
 button52.addEventListener("mousedown", event => {
   buttonid = "text52";
   squareid = "square52";
@@ -328,8 +328,8 @@ button52.addEventListener("mousedown", event => {
 });
 
 const button53 = document.getElementById("addtolist53");
-button53.style.width = "56px";
-button53.style.height = "56px";
+button53.style.width = "52px";
+button53.style.height = "52px";
 button53.addEventListener("mousedown", event => {
   buttonid = "text53";
   squareid = "square53";
@@ -341,8 +341,8 @@ button53.addEventListener("mousedown", event => {
 });
 
 const button54 = document.getElementById("addtolist54");
-button54.style.width = "56px";
-button54.style.height = "56px";
+button54.style.width = "52px";
+button54.style.height = "52px";
 button54.addEventListener("mousedown", event => {
   buttonid = "text54";
   squareid = "square54";
@@ -354,8 +354,8 @@ button54.addEventListener("mousedown", event => {
 });
 
 const button55 = document.getElementById("addtolist55");
-button55.style.width = "56px";
-button55.style.height = "56px";
+button55.style.width = "52px";
+button55.style.height = "52px";
 button55.addEventListener("mousedown", event => {
   buttonid = "text55";
   squareid = "square55";
